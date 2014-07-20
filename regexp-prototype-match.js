@@ -1,4 +1,4 @@
-/*! http://mths.be/regexp-prototype-match v0.0.0 by @mathias */
+/*! http://mths.be/regexp-prototype-match v0.1.0 by @mathias */
 if (!RegExp.prototype.match) {
 	(function() {
 		var defineProperty = (function() {
